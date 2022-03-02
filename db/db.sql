@@ -1,0 +1,3 @@
+DROP DATABASE IF EXIST employeeDB;
+CREATE DATABASE employeeDB;
+USE employeeDB;
